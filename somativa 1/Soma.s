@@ -1,7 +1,8 @@
 .data 
 
 .text
-	main:
+
+main:
 		li $v0,5 #lendo o primeiro numero e guardando o valor dele no registrador v0
 		syscall 
 		move $t0, $v0 # mandando o valor no registrador $v0 para o registrador $t0
