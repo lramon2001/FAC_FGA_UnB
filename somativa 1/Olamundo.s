@@ -6,6 +6,6 @@ main:
 	# Bloco para escrita de comandos
 	li $v0,4 # comando para imprimir uma cadeia de caracteres 
 	la $a0, mensagem # move o conteudo de mensagem para o registrador $a0
-	syscall # comando para executar as instruçõ
+	syscall # comando para executar as instrução acima
 	li $v0, 10
-	syscall
+	syscall # comando para executar as instrução acima
