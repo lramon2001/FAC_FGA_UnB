@@ -6,4 +6,4 @@ FAC-FGA-UnB 📚-Repositório Criado para a disciplina de Fundamentos da Arquite
 - A: [Ola mundo](https://moj.naquadah.com.br/contests/ta_fac_ta_s1_2022_1/olamundo.html);
 - B: [Soma de dois numeros](https://moj.naquadah.com.br/contests/ta_fac_ta_s1_2022_1/soma2.html).
 
-<b>Clique [aqui]() para ver as soluções desenvolvidas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/FAC_FGA_UnB/tree/main/somativa%201) para ver as soluções desenvolvidas por mim.</b>
